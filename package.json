@@ -1,6 +1,6 @@
 {
   "name": "rooflow",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "RooFlow installer for VS Code AI-assisted development",
   "main": "install.js",
   "bin": {
